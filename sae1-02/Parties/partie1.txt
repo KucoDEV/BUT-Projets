@@ -1,0 +1,9 @@
+Vous arrivez dans un corridor, borde par deux falaises des monstres arrivent les uns après les autres.
+2
+Choin 1 4 P F C O
+Lutin 2 3 P F C
+Vous arrivez au bout du corridor, une plaine herbeuse apparait. Malheureusement des monstres sortent de partout pour tous vous attaquer en même temps ou presque...
+3
+Chimere 1 4 P F C O
+Pustule 1 4 P F C O
+Dragonus 2 3 P F C

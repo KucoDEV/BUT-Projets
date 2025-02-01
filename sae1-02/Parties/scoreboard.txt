@@ -1,0 +1,9 @@
+8
+DiouD 100 100 1 0 1
+Hedo 100 100 1 0 1
+Kuco 100 100 1 0 1
+LaSagesse 100 100 1 0 1
+LaSalle 100 100 1 0 1
+Neyor 100 100 1 0 1
+railgun 100 100 1 0 1
+Pauline 280 280.000000 1 0 1

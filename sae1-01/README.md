@@ -34,11 +34,7 @@ Assurez-vous d'avoir un compilateur **C** (GCC recommandé) installé sur votre 
 - `SAE.h` : Contient les déclarations des fonctions et les structures de données.
 - `TestSAE.c` : Fichier principal contenant la fonction `main()`.
 - `index.html` : Documentation générée avec **Doxygen**.
-- `etudiants.don` / `offrestage.don` : Fichiers contenant les données des étudiants et des stages.
-
-## ⚠️ État du projet
-
-Ce projet n'a pas été mis à jour depuis près d'un an. Son bon fonctionnement actuel n'est pas garanti.
+- `DATA/etudiants.don` / `DATA/offrestage.don` : Fichiers contenant les données des étudiants et des stages.
 
 ## 📜 Licence
 
