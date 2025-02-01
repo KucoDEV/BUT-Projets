@@ -1,6 +1,6 @@
 # 🎓 BUT Informatique - Projets SAE
 
-Bienvenue dans le dossier **BUT-Projet** qui regroupe différents projets réalisés dans le cadre du BUT Informatique. Chaque projet est stocké dans un sous-dossier et contient sa propre documentation ainsi que les fichiers sources nécessaires.
+Bienvenue dans le dossier **BUT-Projet** qui regroupe différents projets réalisés dans le cadre de mon BUT Informatique. Chaque projet est stocké dans un sous-dossier et contient sa propre documentation ainsi que les fichiers sources nécessaires.
 
 ## 📂 Structure du dossier
 
