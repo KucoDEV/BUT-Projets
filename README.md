@@ -1,45 +1,45 @@
-# 🎓 BUT Informatique - Projets SAE
+# 🎓 BUT Computer Science - SAE Projects
 
-Bienvenue dans le dossier **BUT-Projet** qui regroupe différents projets réalisés dans le cadre de mon BUT Informatique. Chaque projet est stocké dans un sous-dossier et contient sa propre documentation ainsi que les fichiers sources nécessaires.
+Welcome to the **BUT-Project** folder, which contains various projects carried out as part of my BUT Computer Science studies. Each project is stored in a subfolder and includes its own documentation and necessary source files.
 
-## 📂 Structure du dossier
+## 📂 Folder Structure
 
 ```
-BUT-Projet/
+BUT-Project/
 │-- SAE 1-01/
-│   │-- fichiers...
+│   │-- files...
 │   └── README.md
 │-- SAE 1-02/
-│   │-- fichiers...
+│   │-- files...
 │   └── README.md
 ```
 
-## 📌 Projets inclus
+## 📌 Included Projects
 
-### 📚 SAE 1.01 - Gestion des Stages
+### 📚 SAE 1.01 - Internship Management
 
-📍 **Chemin :** `BUT-Projet/SAE 1-01/`
+📍 **Path:** `BUT-Project/SAE 1-01/`
 
-Ce projet en **langage C** permet la **gestion des offres de stages et des candidatures d'étudiants**. Il facilite l’affectation des stages en fonction des candidatures et des critères définis.
+This project, written in **C language**, enables **management of internship offers and student applications**. It facilitates the assignment of internships based on applications and predefined criteria.
 
-🔗 [Plus d'infos](https://github.com/KucoDEV/BUT-Projets/tree/main/sae1-01)
-
----
-
-### 🎮 SAE 1.02 - Jeu de Combat Tour par Tour
-
-📍 **Chemin :** `BUT-Projet/SAE 1-02/`
-
-Ce projet en **langage C** met en place un **jeu de combat tour par tour** entre un joueur et des monstres. Il comprend un système de duels, un scoreboard et la possibilité de créer des parties personnalisées.
-
-🔗 [Plus d'infos](https://github.com/KucoDEV/BUT-Projets/tree/main/sae1-02)
+🔗 [More info](https://github.com/KucoDEV/BUT-Projets/tree/main/sae1-01)
 
 ---
 
-## ℹ️ Remarque
+### 🎮 SAE 1.02 - Turn-Based Combat Game
 
-Ces projets ont été développés dans un contexte académique et **ne sont pas garantis fonctionnels** après un certain temps sans entretien.
+📍 **Path:** `BUT-Project/SAE 1-02/`
 
-## 📜 Licence
+This project, developed in **C language**, implements a **turn-based combat game** between a player and monsters. It includes a duel system, a scoreboard, and the possibility to create custom games.
 
-Ce projet est sous licence MIT. Vous êtes libre de le modifier et de le redistribuer.
+🔗 [More info](https://github.com/KucoDEV/BUT-Projets/tree/main/sae1-02)
+
+---
+
+## ℹ️ Note
+
+These projects were developed in an academic context and **are not guaranteed to function properly** after a certain period without maintenance.
+
+## 📜 License
+
+This project is licensed under the MIT license. You are free to modify and redistribute it.
